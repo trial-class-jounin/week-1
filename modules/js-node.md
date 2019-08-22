@@ -26,7 +26,7 @@ Untuk mengetest apakah node.jsmu sudah berjalan dengan benar, masuk ke Terminal 
 > node --version
 ```
 
-Apabila versi node.js mu keluar, berarti kamu telah menginstall node.js dengan benar! Dengan menginstall node.js, kamu juga secara otomatis telah menginstall Node Package Manager, sebuah tools yang digunakan untuk memaintain semua package yang akan berjalan di atas node.js. Kamu bisa abaikan soal NPM untuk sementara, namun ini akan menjadi senjata utama kita di materi HACKTIV8 yang akan mendatang!
+Apabila versi node.js mu keluar, berarti kamu telah menginstall node.js dengan benar! Dengan menginstall node.js, kamu juga secara otomatis telah menginstall Node Package Manager, sebuah tools yang digunakan untuk memaintain semua package yang akan berjalan di atas node.js. Kamu bisa abaikan soal NPM untuk sementara, namun ini akan menjadi senjata utama kita di materi KONOHAMARU yang akan mendatang!
 
 ### REPL Node.js
 
@@ -36,8 +36,8 @@ REPL adalah sebuah fitur pada node.js yang memiliki kepanjangan adalah Read Eval
 > node
 > 1 + 2
 3
-> 'hello HACKTIV8'
-'hello HACKTIV8'
+> 'hello Shinobi'
+'hello Shinobi'
 > 'node js is ' + 'cool!'
 'node js is cool!'
 ```
