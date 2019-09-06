@@ -8,7 +8,7 @@
    ```
    Contoh:
    ```
-   git checkout -b dimitri-wahyudiputra
+   git checkout -b bambanggono
    ```
 3. Check terlebih dahulu apakah kamu sudah masuk ke branch baru dengan memasukkan perintah berikut:
    ```

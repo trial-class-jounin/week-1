@@ -14,8 +14,6 @@ Gunakan function `damageCalculation()` untuk menghitung damage yang diterima dan
 
 Karena attack akan dikurangi 2, maka setiap attack akan menghasilkan damage 8
 
-[Submit Tugas Disini](https://github.com/phase-0-branch-exercises/damage-calculation)
-
 ```JavaScript
 function attack (damage) {
   // Code disini

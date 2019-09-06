@@ -78,8 +78,8 @@ Tugas :
 
 ## Sesi 10
 
-- [Refleksi kegiatan pekan ini](https://github.com/trial-class-jounin/week-1/blob/master/modules/reflection.md)
-- [Blogging teknikal terkait skill pekan ini](https://github.com/trial-class-jounin/week-1/blob/master/modules/blog.md)
+- [Refleksi kegiatan pekan ini](https://github.com/trial-class-genin/week-1/blob/master/modules/reflection.md)
+- [Blogging teknikal terkait skill pekan ini](https://github.com/trial-class-genin/week-1/blob/master/modules/blog.md)
 
 Jika ada hal yang perlu ditanyakan, langsung saja berdiskusi di grup ya.
 
